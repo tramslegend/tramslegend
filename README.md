@@ -32,7 +32,7 @@ I build fast, production-ready web apps with **Next.js** and **TypeScript**: rea
 | **RUG-GAME** | Real-time crash-style game on Solana with live rounds and wallet integration | Next.js · Solana · Pusher · Redis · Postgres |
 | **Electronics-shop** | Full e-commerce store: catalog, Stripe checkout, auth, transactional email, image uploads | Next.js · Stripe · Better Auth · MongoDB |
 | **CCTV-SHOP** | Security-equipment storefront built on the same commerce platform | Next.js · Stripe · MongoDB · Resend |
-| **[Yolo-test](https://github.com/tramslegend/Yolo-test)** | Trading chart playground using the TradingView Charting Library with custom datafeeds | TypeScript · HTML · JS |
+| **Yolo-test** | Trading chart playground using the TradingView Charting Library with custom datafeeds | TypeScript · HTML · JS |
 | **[Stop-watch](https://github.com/tramslegend/Stop-watch)** | Minimal stopwatch app | Next.js · Tailwind |
 
 ## 📫 Contact
