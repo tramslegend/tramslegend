@@ -1,17 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1b2a4a,100:7AA2F7&height=200&section=header&text=Full-stack%20Engineer&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Next.js%20%E2%80%A2%20Real-time%20%E2%80%A2%20Web3%20%E2%80%A2%20Commerce&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:13293d,100:00c2a8&height=200&section=header&text=AI%20Engineer&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=LLM%20Applications%20%E2%80%A2%20ML%20Systems%20%E2%80%A2%20Full-stack%20AI&descAlignY=58&descSize=18" width="100%" />
 
 <a href="https://github.com/tramslegend">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=7AA2F7&center=true&vCenter=true&width=650&lines=Full-stack+TypeScript+Developer;Real-time+Multiplayer+Game+Systems;On-chain+Games+on+Solana;E-commerce+Platforms+with+Payments+%26+Auth;Next.js+App+Router+at+Production+Scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00C2A8&center=true&vCenter=true&width=680&lines=AI+Engineer+%2F+Full-stack+Foundation;Building+LLM-powered+Applications;RAG%2C+Agents+%26+Tool-use+Pipelines;Studying+ML+from+First+Principles;From+Next.js+Products+to+AI+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Next.js](https://img.shields.io/badge/Next.js-App_Router-7AA2F7?style=for-the-badge&labelColor=0d1117)
-![TypeScript](https://img.shields.io/badge/TypeScript-End_to_End-3178C6?style=for-the-badge&labelColor=0d1117)
-![Real-time](https://img.shields.io/badge/Real--time-WebSockets-16c79a?style=for-the-badge&labelColor=0d1117)
-![Web3](https://img.shields.io/badge/Solana-On--chain-9D7CD8?style=for-the-badge&labelColor=0d1117)
+![Focus](https://img.shields.io/badge/Focus-LLM_Applications-00c2a8?style=for-the-badge&labelColor=0d1117)
+![Python](https://img.shields.io/badge/Python-ML_Tooling-3776AB?style=for-the-badge&labelColor=0d1117)
+![TypeScript](https://img.shields.io/badge/TypeScript-Full--stack-3178C6?style=for-the-badge&labelColor=0d1117)
+![Learning](https://img.shields.io/badge/Mode-Always_Shipping-f5a623?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -19,22 +19,23 @@
 
 ## `>` whoami
 
-```ts
-const dev: FullStackEngineer = {
-  role:       "Full-stack TypeScript Developer",
-  focus:      ["Next.js App Router", "Real-time systems", "Web3 / Solana"],
-  frontend:   ["React", "TypeScript", "Tailwind CSS", "shadcn/ui"],
-  backend:    ["Node.js", "PostgreSQL", "MongoDB", "Redis", "Zod"],
-  realtime:   ["WebSockets", "Pusher", "live rounds & leaderboards"],
-  web3:       ["Solana web3.js", "wallet integration", "on-chain settlement"],
-  currently:  "real-time multiplayer games with wallets & live state",
-  philosophy: "Ship production systems, not demos.",
-};
+```python
+class AIEngineer:
+    background = "Full-stack TypeScript / Next.js engineer"
+    now        = "Building AI-powered products & ML systems"
+    building   = ["LLM apps", "RAG pipelines", "tool-using agents"]
+    studying   = ["transformers from scratch", "autograd", "training loops"]
+    stack_ml   = ["Python", "PyTorch", "LLM APIs", "vector DBs"]
+    stack_web  = ["Next.js", "TypeScript", "Node.js", "Postgres", "Redis"]
+    edge       = "I can take an AI idea from model to a shipped product"
+    philosophy = "Understand the fundamentals, then ship real systems."
 ```
 
-I build fast, production-ready web apps — from the database schema all the way to the pixel.
-**Real-time multiplayer games** on Solana, and **full e-commerce platforms** with payments, auth,
-email and admin tooling. Not prototypes — systems that handle real users, real money, and real traffic.
+I come from **full-stack product engineering** — shipping real Next.js apps with payments, auth and
+real-time systems — and I'm now focused on **AI engineering**: building **LLM-powered applications**
+(RAG, agents, tool-use) and learning the ML foundations underneath by **implementing them from scratch**.
+
+My edge: I don't just call a model API — I can wrap it in a real, production-grade product.
 
 ---
 
@@ -44,41 +45,41 @@ email and admin tooling. Not prototypes — systems that handle real users, real
 <tr>
 <td width="33%" valign="top">
 
-### 🎮 Real-time Games
+### 🤖 LLM Applications
 
-Live multiplayer rounds<br/>
-WebSocket state sync<br/>
-Wallet integration (Solana)<br/>
-Live leaderboards<br/>
-Round history & replay<br/>
-Provably-fair outcomes<br/>
-Low-latency broadcast
-
-</td>
-<td width="33%" valign="top">
-
-### 🛒 E-commerce
-
-Product catalog & search<br/>
-Stripe checkout & webhooks<br/>
-Auth & sessions<br/>
-Transactional email<br/>
-Image / file uploads<br/>
-Admin & order tooling<br/>
-Inventory management
+RAG over private data<br/>
+Tool-using agents<br/>
+Structured output / function calls<br/>
+Streaming chat UIs<br/>
+Prompt & context engineering<br/>
+Eval & guardrails<br/>
+Cost / latency optimization
 
 </td>
 <td width="33%" valign="top">
 
-### 🔌 Full-stack & Infra
+### 🧠 ML Foundations
 
-Next.js App Router<br/>
-API routes & server actions<br/>
-PostgreSQL / Mongo / Redis<br/>
+Transformers from scratch<br/>
+Autograd & backprop<br/>
+Training & fine-tuning loops<br/>
+Tokenization & embeddings<br/>
+Attention mechanics<br/>
+Model evaluation<br/>
+Scaling intuition
+
+</td>
+<td width="33%" valign="top">
+
+### 🔌 Full-stack AI
+
+Next.js + model backends<br/>
+Vector DB integration<br/>
+Streaming APIs & queues<br/>
+Auth, billing & limits<br/>
 Caching & rate limiting<br/>
-Docker & Vercel deploys<br/>
-Type-safe end to end (Zod)<br/>
-Testing with Vitest
+Docker / Vercel deploys<br/>
+Type-safe end to end
 
 </td>
 </tr>
@@ -90,166 +91,127 @@ Testing with Vitest
 
 <div align="center">
 
-**Frontend**
+**AI / ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**AI App Layer**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![Vector DB](https://img.shields.io/badge/Vector_DB-pgvector_%2F_Pinecone-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Full-stack**
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn/ui-000000?style=flat-square&logo=shadcnui&logoColor=white)
-
-**Backend / Real-time**
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=flat-square&logo=pusher&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-
-**Data &amp; Infra**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-**Payments / Web3**
-
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
-![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logo=auth0&logoColor=white)
-![Resend](https://img.shields.io/badge/Resend-000000?style=flat-square&logo=resend&logoColor=white)
 
 </div>
 
 ---
 
-## `>` real-time game round
+## `>` a RAG pipeline
 
-How a live multiplayer round flows — bet, live state, cash-out, settle:
+How I wire retrieval-augmented generation into a product:
 
 ```mermaid
-sequenceDiagram
-    autonumber
-    participant P as Player
-    participant C as Game Client
-    participant S as Game Server
-    participant W as Wallet / Chain
-
-    P->>C: connect(wallet)
-    C->>S: join round (WebSocket)
-    S-->>C: round state + countdown
-
-    P->>C: place bet (1.0)
-    C->>S: POST /round/bet
-    S->>W: debit (txId) — idempotent
-    W-->>S: ok, balance
-
-    loop live tick
-        S-->>C: broadcast multiplier (x1.00 → x1.87 ...)
-    end
-
-    P->>C: CASH OUT @ x1.87
-    C->>S: POST /round/cashout
-    S->>W: credit win (txId)
-    W-->>S: settled
-    S-->>C: result + updated leaderboard
-
-    Note over S,W: crash mid-round → rollback(txId), replayable from event log
+flowchart LR
+    A[User query] --> B[Embed query]
+    B --> C{Vector search}
+    C --> D[(Vector DB)]
+    D --> E[Top-k chunks]
+    E --> F[Build context + prompt]
+    F --> G[LLM]
+    G --> H[Stream answer + citations]
+    H --> A
+    G -.->|tool call| I[Functions / APIs]
+    I -.-> F
 ```
 
 ---
 
-## `>` provably-fair outcome
+## `>` from first principles
 
-```ts
-import { createHmac, createHash } from "node:crypto";
+I learn by rebuilding the fundamentals, not just importing them. A micro-autograd in the spirit of backprop:
 
-/**
- * Deterministic round outcome from a committed server seed.
- * Players verify after the round: sha256(serverSeed) === publishedHash
- */
-export function roundOutcome(
-  serverSeed: string,
-  clientSeed: string,
-  nonce: number,
-): number {
-  const digest = createHmac("sha256", serverSeed)
-    .update(`${clientSeed}:${nonce}`)
-    .digest();
+```python
+class Value:
+    """A scalar that tracks its gradient — the core idea behind autograd."""
+    def __init__(self, data, _children=()):
+        self.data, self.grad = data, 0.0
+        self._backward = lambda: None
+        self._prev = set(_children)
 
-  // unbiased sampling — never a naive `% n` (modulo bias skews fairness)
-  const n = digest.readUInt32BE(0) / 0xffffffff;
-  return Math.max(1, Math.floor((1 / (1 - n)) * 100) / 100); // crash multiplier
-}
-
-export const commit = (serverSeed: string) =>
-  createHash("sha256").update(serverSeed).digest("hex");
+    def __mul__(self, other):
+        out = Value(self.data * other.data, (self, other))
+        def _backward():
+            self.grad  += other.data * out.grad
+            other.grad += self.data  * out.grad
+        out._backward = _backward
+        return out
 ```
 
 <div align="center">
 
-**`commit` → `play` → `reveal` → `verify`** — every round is auditable.
+*Implementing transformers, autograd and training loops by hand — so the APIs aren't magic.*
 
 </div>
 
 ---
 
-## `>` featured work
+## `>` currently
 
-| Project | What it is | Stack |
-|---|---|---|
-| **RUG-GAME** | Real-time crash-style game on Solana — live rounds, wallet integration, leaderboard | Next.js · Solana · Pusher · Redis · Postgres |
-| **Electronics-shop** | Full e-commerce: catalog, Stripe checkout, auth, email, image uploads | Next.js · Stripe · Better Auth · MongoDB |
-| **CCTV-SHOP** | Security-equipment storefront on the same commerce platform | Next.js · Stripe · MongoDB · Resend |
-| **[Stop-watch](https://github.com/tramslegend/Stop-watch)** | Minimal stopwatch app | Next.js · Tailwind |
+```
+▸ Building   : LLM-powered app features (RAG + agents) on a Next.js stack
+▸ Studying   : GPT internals, attention, and training loops from scratch
+▸ Next up    : fine-tuning + evals + shipping a public AI project
+```
 
-<!-- Swap in your real project links / live demos for each row. -->
+<!-- Replace the three lines above with your real current work, and add your shipped projects below. -->
 
 ---
 
 ## `>` platform capabilities
 
 <details>
-<summary><b>🎮 Real-time Engine</b></summary>
+<summary><b>🤖 LLM Application Layer</b></summary>
 
-- Authoritative server state with WebSocket broadcast
-- Live multiplier / round ticks at low latency
-- Reconnect & state resync on drop
-- Round history, replay and audit log
-- Redis-backed leaderboards (sorted sets)
-
-</details>
-
-<details>
-<summary><b>💳 Payments &amp; Commerce</b></summary>
-
-- Stripe checkout, webhooks and refunds
-- Idempotent order & payment handling
-- Cart, inventory and catalog management
-- Transactional email (Resend) for receipts & auth
-- Admin dashboard for orders and products
+- RAG over private documents with chunking + reranking
+- Tool-using agents with structured (function-call) output
+- Streaming chat with token-by-token UI
+- Prompt / context engineering and templating
+- Output validation and guardrails
+- Token-cost and latency budgeting
 
 </details>
 
 <details>
-<summary><b>🔐 Auth &amp; Security</b></summary>
+<summary><b>🧠 ML Fundamentals (hands-on study)</b></summary>
 
-- Session & credential auth (Better Auth)
-- Role-based access for admin tooling
-- Input validation end-to-end with Zod
-- Rate limiting and request validation
-- Secure file/image uploads (Vercel Blob)
+- Transformer blocks: attention, MLP, residual, layernorm
+- Autograd / backprop implemented by hand
+- Training loops, optimizers, LR schedules
+- Tokenization and embeddings
+- Evaluation and overfitting diagnostics
 
 </details>
 
 <details>
-<summary><b>📊 Data &amp; Tooling</b></summary>
+<summary><b>🔌 Productionizing AI</b></summary>
 
-- PostgreSQL, MongoDB and Redis depending on the workload
-- Type-safe data access and schemas
-- Docker for local parity, Vercel for deploys
-- Vitest test coverage on core logic
+- Next.js backends calling model providers
+- Vector DB integration (pgvector / Pinecone)
+- Streaming APIs, queues and background jobs
+- Auth, rate limiting and usage metering
+- Docker + Vercel deployment
 
 </details>
 
@@ -258,12 +220,12 @@ export const commit = (serverSeed: string) =>
 ## `>` engineering principles
 
 ```
-1. Type-safe end to end — if it compiles, it's closer to correct.
-2. Money and game state move through a state machine, never an if-statement.
-3. Every write is idempotent — the network will betray you.
-4. Real-time means authoritative server, dumb client.
-5. Validate at the boundary (Zod), trust nothing from the wire.
-6. Ship production systems, not demos.
+1. Understand the fundamentals before importing the abstraction.
+2. An LLM feature is still a product — auth, limits, errors, UX all matter.
+3. Validate model output at the boundary; never trust it blindly.
+4. Measure cost and latency like any other production metric.
+5. Evals over vibes — know when the model actually got better.
+6. Ship real systems, not notebooks.
 ```
 
 ---
@@ -272,10 +234,10 @@ export const commit = (serverSeed: string) =>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tramslegend&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&icon_color=7AA2F7&title_color=7AA2F7" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tramslegend&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&title_color=7AA2F7" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=tramslegend&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&icon_color=00c2a8&title_color=00c2a8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tramslegend&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&title_color=00c2a8" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tramslegend&hide_border=true&theme=tokyonight&fire=7AA2F7&ring=7AA2F7&currStreakLabel=7AA2F7" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tramslegend&hide_border=true&theme=tokyonight&fire=00c2a8&ring=00c2a8&currStreakLabel=00c2a8" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=tramslegend&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
 
@@ -287,19 +249,18 @@ export const commit = (serverSeed: string) =>
 
 <div align="center">
 
-Open to **freelance** and **full-time** work — real-time apps, Next.js products, or e-commerce builds.
+Open to **AI engineering** roles and projects — LLM apps, RAG systems, and full-stack AI products.
 
 <a href="https://github.com/tramslegend">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<!-- Replace the placeholder hrefs below with your real links, then uncomment:
+<!-- Add your real links, then uncomment:
 <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://t.me/your-handle"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 -->
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,50:1b2a4a,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c2a8,50:13293d,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
