@@ -244,12 +244,17 @@ class Value:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tramslegend&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true&icon_color=00c2a8&title_color=00c2a8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tramslegend&layout=compact&hide_border=true&theme=tokyonight&langs_count=8&title_color=00c2a8" />
+<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tramslegend&theme=tokyonight" alt="profile summary" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tramslegend&hide_border=true&theme=tokyonight&fire=00c2a8&ring=00c2a8&currStreakLabel=00c2a8" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tramslegend&theme=tokyonight" alt="stats" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tramslegend&theme=tokyonight" alt="languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=tramslegend&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tramslegend&theme=tokyonight" alt="most commit language" />
+<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tramslegend&theme=tokyonight&utcOffset=8" alt="productive time" />
+
+<br/>
+
+<img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=tramslegend&hide_border=true&theme=tokyonight&fire=00c2a8&ring=00c2a8&currStreakLabel=00c2a8" alt="streak" />
 
 </div>
 
