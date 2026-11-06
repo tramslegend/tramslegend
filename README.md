@@ -240,21 +240,15 @@ class Value:
 
 ---
 
-## `>` stats
+## `>` role
 
 <div align="center">
 
-<img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tramslegend&theme=tokyonight" alt="profile summary" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:13293d,100:00c2a8&height=170&section=header&text=Building%20Intelligent%20Systems&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20%E2%80%A2%20LLM%20Applications%20%E2%80%A2%20ML%20from%20First%20Principles&descSize=16&descAlignY=68" alt="AI Engineer banner" />
 
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tramslegend&theme=tokyonight" alt="stats" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tramslegend&theme=tokyonight" alt="languages" />
+<br/><br/>
 
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tramslegend&theme=tokyonight" alt="most commit language" />
-<img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tramslegend&theme=tokyonight&utcOffset=8" alt="productive time" />
-
-<br/>
-
-<img width="82%" src="https://github-readme-streak-stats.herokuapp.com/?user=tramslegend&hide_border=true&theme=tokyonight&fire=00c2a8&ring=00c2a8&currStreakLabel=00c2a8" alt="streak" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,ts,react,nextjs,nodejs,docker&theme=dark" alt="stack" />
 
 </div>
 
