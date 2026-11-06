@@ -170,12 +170,22 @@ class Value:
 ## `>` currently
 
 ```
-▸ Building   : LLM-powered app features (RAG + agents) on a Next.js stack
-▸ Studying   : GPT internals, attention, and training loops from scratch
-▸ Next up    : fine-tuning + evals + shipping a public AI project
+▸ Building   : my-autograd — a reverse-mode autodiff engine from scratch
+▸ Studying   : GPT internals, attention, and training loops from first principles
+▸ Next up    : vectorized Tensor engine, Adam optimizer, a small LLM app
 ```
 
-<!-- Replace the three lines above with your real current work, and add your shipped projects below. -->
+---
+
+## `>` featured
+
+| Project | What it is | Highlights |
+|---|---|---|
+| **[my-autograd](https://github.com/tramslegend/my-autograd)** | A tiny reverse-mode autodiff engine + neural net library, pure Python, no frameworks | Implements backprop via topological-sort; trains an MLP from 48% → 96% accuracy |
+
+<sub>The core of every ML framework (PyTorch's <code>loss.backward()</code>) built by hand to understand it end to end.</sub>
+
+<!-- Add more real projects here as you build them. -->
 
 ---
 
